@@ -26,3 +26,5 @@ It could be considered as a layer 7 application Covert Channel (but some friends
 I prefer to consider this project as a game rather than an experiment :)
 Please do not use it for illegal purpose.
 I take no responsibility for the use that will be made of it
+
+IT IS JUST A POC, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
