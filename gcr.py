@@ -9,6 +9,7 @@ import uuid
 import time
 
 c2Calendar = "PUT_YOUR_CALENDAR_ADDRESS_HERE"#example "mycalendar@gmail.com"
+pollingTime = 0
 
 def print_banner():
     banner = """
@@ -88,6 +89,7 @@ def main():
     service = build('calendar', 'v3', credentials=credentials)
 
     while 1:
+        time.sleep(pollingTime)
         events = get_sorted_events(event_date,service)
         counter = 0
         for event in events:
