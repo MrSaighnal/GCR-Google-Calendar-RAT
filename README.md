@@ -1,6 +1,7 @@
 # GCR-Google-Calendar-RAT
 Google Calendar RAT is a PoC of Command&amp;Control over Google Calendar Events
 The script creates a 'Covert Channel' by exploiting the event descriptions in Google Calendar. The target will connect directly to Google."
+It could be considered as a layer 7 application Covert Channel (but some friends would say it cannot :) very thanks to my mates "Tortellini" https://aptw.tf )
 
 ![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/8e4e1f83-8141-408d-8910-e8e92896b8e4)
 
