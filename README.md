@@ -6,7 +6,7 @@ It could be considered as a layer 7 application Covert Channel (but some friends
 ![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/8e4e1f83-8141-408d-8910-e8e92896b8e4)
 
 # How it works
-GCR attempt to connect to a valid shared Google Calendar link and after generating a unique ID check for yet not executed commands.
+GCR attempt to connect to a valid shared Google Calendar link and after generating a unique ID check for any yet-to-be-executed commands.
 If it is not able to find any command, it creates a new one (fixed to "whoami") as a proof of connection.
 Every event is composed by two part:
 1. The Title, which contains the unique ID, it means you can schedule multiple commands creating events having the same unique ID as name
