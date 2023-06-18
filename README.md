@@ -18,4 +18,4 @@ Google Calendar RAT is a PoC of Command&amp;Control over Google Calendar Events
 
 # Notes
 I prefer to consider this project as a game rather than an experiment :)
-Pleas do not use it for illegal purpose
+Please do not use it for illegal purpose
