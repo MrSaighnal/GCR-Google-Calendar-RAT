@@ -1,9 +1,27 @@
 # GCR-Google-Calendar-RAT
 Google Calendar RAT is a PoC of Command&amp;Control over Google Calendar Events
 The script creates a 'Covert Channel' by exploiting the event descriptions in Google Calendar. The target will connect directly to Google."
-It could be considered as a layer 7 application Covert Channel (but some friends would say it cannot :) very thanks to my mates "Tortellini" https://aptw.tf )
+It could be considered as a layer 7 application Covert Channel (but some friends would say it cannot be :) very thanks to my mates "Tortellini" https://aptw.tf )
 
 ![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/8e4e1f83-8141-408d-8910-e8e92896b8e4)
+
+# How it works
+GCR attempt to connect to a valid shared Google Calendar link and after generating a unique ID check for yet not executed commands.
+If it is not able to find any command, it creates a new one (fixed to "whoami") as a proof of connection.
+Every event is composed by two part:
+1. The Title, which contains the unique ID, it means you can schedule multiple commands creating events having the same unique ID as name
+2. The Description, which contains the command to execute and the base64 encoded output using the pipe symbol as separator "|"
+
+# What a SOC analyst/defensor will see?
+This:
+![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/a2bf1f24-90a6-49ab-9a12-bcc7c999e2b3)
+![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/66dbd7b5-4060-4829-9229-99bb0c5a19e5)
+
+
+which results in this
+![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/244e9acf-44a9-45b7-92f5-f61d911446a3)
+![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/14c875fc-c28f-45d6-94c1-64e3dd02606b)
+
 
 
 # How to use it
