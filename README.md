@@ -7,6 +7,7 @@ The script creates a 'Covert Channel' by exploiting the event descriptions in Go
 # How to use it
 - Setup a Google service account and obtain the credentials.json file, place the file in the same directory of the script
 - Create a new Google calendar and share it with the new created service account
+- Edit the script to point your calendar address
 - Once executed on the target machine an event with a unique target ID is automatically created autoexecuting the "whoami" command
 - Use the following syntax in the event description for the communication =>   CLEAR_COMMAND|BASE64_OUTPUT
   ### Examples:
