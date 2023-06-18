@@ -1,6 +1,8 @@
 # GCR-Google-Calendar-RAT
 Google Calendar RAT is a PoC of Command&amp;Control over Google Calendar Events
 
+![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/9e607fc5-4cac-498f-948d-e79d9a06fabb)
+
 # How to use it
 - Setup a Google service account and obtain the credentials.json file
 - Create a new Google calendar and share it with the new created service account
