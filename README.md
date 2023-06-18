@@ -9,3 +9,11 @@ Google Calendar RAT is a PoC of Command&amp;Control over Google Calendar Events
   ### Examples:
   - "whoami|"
   - "net users|"
+
+# POC
+![poc](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/dfec42a9-6dda-42bf-ae9c-5fd7d818d8bf)
+
+
+# Notes
+I prefer to consider this project as a game rather than an experiment :)
+Pleas do not use it for illegal purpose
