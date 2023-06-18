@@ -15,6 +15,8 @@ Every event is composed by two part:
 3. The Description, which contains the command to execute and the base64 encoded output using the pipe symbol as separator "|"
 ![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/5f2630e2-5591-48d1-bae2-5695afa8a33e)
 
+![Disegno senza titolo (1)](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/2fb0bfd9-8422-4697-893c-e545a2f3d291)
+
 
 # What a SOC analyst/Blue Teamer will see?
 Focusing specifically on the network aspect, the only connections established will be to Google's servers, making the connection appear completely legitimate.
