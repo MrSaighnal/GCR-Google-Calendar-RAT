@@ -1,3 +1,13 @@
+<p align="center">
+  <img alt="BetterCap" src="https://raw.githubusercontent.com/bettercap/media/master/logo.png" height="140" />
+  <p align="center">
+    <a href="https://github.com/bettercap/bettercap/releases/latest"><img alt="Release" src="https://img.shields.io/github/release/bettercap/bettercap.svg?style=flat-square"></a>
+    <a href="https://github.com/bettercap/bettercap/blob/master/LICENSE.md"><img alt="Software License" src="https://img.shields.io/badge/license-GPL3-brightgreen.svg?style=flat-square"></a>
+    <a href="https://travis-ci.org/bettercap/bettercap"><img alt="Travis" src="https://img.shields.io/travis/bettercap/bettercap/master.svg?style=flat-square"></a>
+
+  </p>
+</p>
+
 # GCR-Google-Calendar-RAT
 Google Calendar RAT is a PoC of Command&amp;Control over Google Calendar Events, This tool has been developed for those circumstances where it is difficult to create an entire red teaming infrastructure. To use GRC, only a Gmail account is required.
 The script creates a 'Covert Channel' by exploiting the event descriptions in Google Calendar. The target will connect directly to Google."
