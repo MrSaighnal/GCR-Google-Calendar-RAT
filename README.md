@@ -1,4 +1,4 @@
-
+<p align="center">
   <img alt="GCR" src="https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/blob/main/images/logo.png?raw=true" height="200" />
  
 </p>
