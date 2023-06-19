@@ -3,6 +3,7 @@
  
 </p>
 <p align="left">
+
 # GCR-Google-Calendar-RAT
 Google Calendar RAT is a PoC of Command&amp;Control (C2) over Google Calendar Events, This tool has been developed for those circumstances where it is difficult to create an entire red teaming infrastructure. To use GRC, only a Gmail account is required.
 The script creates a 'Covert Channel' by exploiting the event descriptions in Google Calendar. The target will connect directly to Google."
