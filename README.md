@@ -1,11 +1,11 @@
 # GCR-Google-Calendar-RAT
-Google Calendar RAT is a PoC of Command&amp;Control over Google Calendar Events
+Google Calendar RAT is a PoC of Command&amp;Control over Google Calendar Events, This tool has been developed for those circumstances where it is difficult to create an entire red teaming infrastructure. To use GRC, only a Gmail account is required.
 The script creates a 'Covert Channel' by exploiting the event descriptions in Google Calendar. The target will connect directly to Google."
 It could be considered as a layer 7 application Covert Channel (but some friends would say it cannot be :) very thanks to my mates "Tortellini" https://aptw.tf )
 
 ![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/8e4e1f83-8141-408d-8910-e8e92896b8e4)
 
-# How it works
+## How it works
 GCR attempt to connect to a valid shared Google Calendar link and after generating a unique ID check for any yet-to-be-executed commands.
 If it is not able to find any command, it creates a new one (fixed to "whoami") as a proof of connection.
 Every event is composed by two part:
@@ -15,10 +15,12 @@ Every event is composed by two part:
 3. The Description, which contains the command to execute and the base64 encoded output using the pipe symbol as separator "|"
 ![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/5f2630e2-5591-48d1-bae2-5695afa8a33e)
 
-![Disegno senza titolo (1)](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/2fb0bfd9-8422-4697-893c-e545a2f3d291)
+## Workflow Attack
+![Disegno senza titolo (2)](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/99bec717-4e9a-4880-9a5a-b038666441b6)
 
 
-# What a SOC analyst/Blue Teamer will see?
+
+## What a SOC analyst/Blue Teamer will see?
 Focusing specifically on the network aspect, the only connections established will be to Google's servers, making the connection appear completely legitimate.
 Let's check with process hacker:
 ![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/a2bf1f24-90a6-49ab-9a12-bcc7c999e2b3)
@@ -31,7 +33,7 @@ which results in this
 
 
 
-# How to use it
+## How to use it
 - Setup a Google service account and obtain the credentials.json file, place the file in the same directory of the script
 - Create a new Google calendar and share it with the new created service account
 - Edit the script to point your calendar address
@@ -42,12 +44,12 @@ which results in this
   - "net users|"
 - The date is fixed on May 30th, 2023. You can create unlimited events using the unique ID as the event name.
 
-# POC
+## POC
 ![poc](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/b83e6f28-36bd-454d-9c04-87095a280b1a)
 
 
 
-# Notes
+## Notes
 I prefer to consider this project as a game rather than an experiment :)
 Please do not use it for illegal purpose.
 I take no responsibility for the use that will be made of it
