@@ -10,6 +10,9 @@ It could be considered as a layer 7 application Covert Channel (but some friends
 
 ![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/8e4e1f83-8141-408d-8910-e8e92896b8e4)
 
+## POC
+![poc](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/b83e6f28-36bd-454d-9c04-87095a280b1a)
+
 ## How it works
 GCR attempt to connect to a valid shared Google Calendar link and after generating a unique ID check for any yet-to-be-executed commands.
 If it is not able to find any command, it creates a new one (fixed to "whoami") as a proof of connection.
@@ -48,11 +51,6 @@ which results in this
   - "whoami|"
   - "net users|"
 - The date is fixed on May 30th, 2023. You can create unlimited events using the unique ID as the event name.
-
-## POC
-![poc](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/b83e6f28-36bd-454d-9c04-87095a280b1a)
-
-
 
 ## Notes
 I prefer to consider this project as a game rather than an experiment :)
