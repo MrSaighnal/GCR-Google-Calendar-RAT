@@ -18,10 +18,13 @@ GCR attempt to connect to a valid shared Google Calendar link and after generati
 If it is not able to find any command, it creates a new one (fixed to "whoami") as a proof of connection.
 Every event is composed by two part:
 1. The Title, which contains the unique ID, it means you can schedule multiple commands creating events having the same unique ID as name
-   
+
+
 ![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/df999259-3b1b-419f-b555-204fc5dc2dbf)
 
 3. The Description, which contains the command to execute and the base64 encoded output using the pipe symbol as separator "|"
+
+
 ![image](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/assets/47419260/5f2630e2-5591-48d1-bae2-5695afa8a33e)
 
 ## Workflow Attack
