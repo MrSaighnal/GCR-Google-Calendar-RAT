@@ -67,30 +67,30 @@ IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 
 ## Related articles
 
-[Google Cybersecurity Action Team](https://services.google.com/fh/files/blogs/gcat_threathorizons_full_oct2023.pdf)
+- [Google](https://services.google.com/fh/files/blogs/gcat_threathorizons_full_oct2023.pdf)
 
-[The Hacker News](https://thehackernews.com/2023/11/google-warns-of-hackers-absing-calendar.html)
+- [Microsoft](https://www.msn.com/en-us/news/technology/google-calendar-exploited-in-new-remote-access-trojan-rat/ar-AA1jwtOA)
 
-[Microsoft](https://www.msn.com/en-us/news/technology/google-calendar-exploited-in-new-remote-access-trojan-rat/ar-AA1jwtOA)https://www.msn.com/en-us/news/technology/google-calendar-exploited-in-new-remote-access-trojan-rat/ar-AA1jwtOA)
+- [BitDefender](https://www.bitdefender.com/blog/hotforsecurity/google-warns-of-google-calendar-rat-exploit-in-security-report/)
 
-[Medium](https://chennylmf.medium.com/unveiling-the-cunning-a-demo-of-google-calendar-rat-exploiting-calendar-service-for-c2-operations-d6ee0b2f8011)
+- [The Hacker News](https://thehackernews.com/2023/11/google-warns-of-hackers-absing-calendar.html)
 
-[Medium](https://chennylmf.medium.com/unveiling-the-cunning-a-demo-of-google-calendar-rat-exploiting-calendar-service-for-c2-operations-d6ee0b2f8011)
+- [Security Affairs](https://securityaffairs.com/153700/hacking/google-calendar-rat-attacks.html)
 
-[Security Affairs](https://securityaffairs.com/153700/hacking/google-calendar-rat-attacks.html)
+- [Medium](https://chennylmf.medium.com/unveiling-the-cunning-a-demo-of-google-calendar-rat-exploiting-calendar-service-for-c2-operations-d6ee0b2f8011)
 
-[PC Magazine](https://www.pcmag.com/news/google-calendar-is-a-potential-tool-for-hackers-to-control-malware)
+- [PC Magazine](https://www.pcmag.com/news/google-calendar-is-a-potential-tool-for-hackers-to-control-malware)
 
-[BitDefender](https://www.bitdefender.com/blog/hotforsecurity/google-warns-of-google-calendar-rat-exploit-in-security-report/)
+- [VPNOverview](https://vpnoverview.com/news/google-calendar-can-be-used-to-spread-malware-report-warns/)
 
-[VPNOverview](https://vpnoverview.com/news/google-calendar-can-be-used-to-spread-malware-report-warns/)
+- [Wired (italian)](https://www.wired.it/article/google-calendar-attacchi-informatici-malware/)
 
-[Wired (italian)](https://www.wired.it/article/google-calendar-attacchi-informatici-malware/)
+- [Punto Informatico (italian)](https://www.punto-informatico.it/google-calendar-nuovo-bersaglio-hacker/)
 
-[Punto Informatico (italian)](https://www.punto-informatico.it/google-calendar-nuovo-bersaglio-hacker/)
+- [Il Software (italian)](https://www.ilsoftware.it/google-calendar-rat-hacker-sfruttano-calendar-per-i-loro-attacchi/)
 
-[Il Software (italian)](https://www.ilsoftware.it/google-calendar-rat-hacker-sfruttano-calendar-per-i-loro-attacchi/)
+- [Red Hot Cyber (italian)](https://www.redhotcyber.com/post/google-calendar-utilizzato-come-comand-control-per-la-gestione-dei-malware/)
 
-[Red Hot Cyber (italian)](https://www.redhotcyber.com/post/google-calendar-utilizzato-come-comand-control-per-la-gestione-dei-malware/)
+## Similar Project
 
-
+- [GC2-Sheet (by Lorenzo Grazian)](https://github.com/looCiprian/GC2-sheet)
