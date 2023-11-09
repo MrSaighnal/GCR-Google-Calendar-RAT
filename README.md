@@ -69,7 +69,9 @@ IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 
 - [Google](https://services.google.com/fh/files/blogs/gcat_threathorizons_full_oct2023.pdf)
 
-- [Microsoft](https://www.msn.com/en-us/news/technology/google-calendar-exploited-in-new-remote-access-trojan-rat/ar-AA1jwtOA)
+- [Microsoft](https://www.msn.com/en-us/news/technology/even-google-calendar-isnt-safe-from-hackers-any-more/ar-AA1juBQk)
+
+- [Android Headlines](https://www.androidheadlines.com/2023/11/google-calendar-exploited-new-remote-access-trojan-rat.html)
 
 - [BitDefender](https://www.bitdefender.com/blog/hotforsecurity/google-warns-of-google-calendar-rat-exploit-in-security-report/)
 
