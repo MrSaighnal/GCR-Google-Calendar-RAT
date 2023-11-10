@@ -93,6 +93,8 @@ IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 
 - [DarkReading](https://www.darkreading.com/cloud/google-cloud-rat-calendar-events-command-and-control)
 
+- [Vulners](https://vulners.com/thn/THN:59821E9D5171515534AD05F1337FF45D)
+
 - [Wired (italian)](https://www.wired.it/article/google-calendar-attacchi-informatici-malware/)
 
 - [Punto Informatico (italian)](https://www.punto-informatico.it/google-calendar-nuovo-bersaglio-hacker/)
