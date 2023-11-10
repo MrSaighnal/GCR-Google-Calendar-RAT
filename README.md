@@ -87,6 +87,8 @@ IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 
 - [Cybersecurity News](https://cybersecuritynews.com/google-calendar-rat/)
 
+- [Cyber Material](https://cybermaterial.com/threat-actors-exploit-google-calendar/)
+
 - [DarkReading](https://www.darkreading.com/cloud/google-cloud-rat-calendar-events-command-and-control)
 
 - [Wired (italian)](https://www.wired.it/article/google-calendar-attacchi-informatici-malware/)
