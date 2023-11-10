@@ -85,6 +85,8 @@ IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 
 - [VPNOverview](https://vpnoverview.com/news/google-calendar-can-be-used-to-spread-malware-report-warns/)
 
+- [SoftTonic](https://en.softonic.com/articles/not-even-google-calendar-is-free-from-hackers)
+
 - [Cybersecurity News](https://cybersecuritynews.com/google-calendar-rat/)
 
 - [Cyber Material](https://cybermaterial.com/threat-actors-exploit-google-calendar/)
