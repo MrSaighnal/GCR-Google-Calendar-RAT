@@ -95,6 +95,8 @@ IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 
 - [Vulners](https://vulners.com/thn/THN:59821E9D5171515534AD05F1337FF45D)
 
+- [ExploitOne](https://www.exploitone.com/tutorials/this-google-calendar-technique-allows-to-hack-into-companies-without-getting-detected/)
+
 - [Wired (italian)](https://www.wired.it/article/google-calendar-attacchi-informatici-malware/)
 
 - [Punto Informatico (italian)](https://www.punto-informatico.it/google-calendar-nuovo-bersaglio-hacker/)
