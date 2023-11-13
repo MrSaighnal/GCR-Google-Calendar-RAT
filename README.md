@@ -77,6 +77,8 @@ IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 
 - [The Hacker News](https://thehackernews.com/2023/11/google-warns-of-hackers-absing-calendar.html)
 
+- [Linkedin](https://www.linkedin.com/pulse/unmasking-google-calendar-rat-gcr-new-covert-cc-hqq0c/?trk=article-ssr-frontend-pulse_more-articles_related-content-card)
+
 - [Security Affairs](https://securityaffairs.com/153700/hacking/google-calendar-rat-attacks.html)
 
 - [Medium](https://chennylmf.medium.com/unveiling-the-cunning-a-demo-of-google-calendar-rat-exploiting-calendar-service-for-c2-operations-d6ee0b2f8011)
