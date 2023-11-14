@@ -59,13 +59,14 @@ which results in this
 - The date is fixed on May 30th, 2023. You can create unlimited events using the unique ID as the event name.
 
 ## Disclaimer and notes
+Google Calendar RAT has been made in Italy with ❤️<p>
 I prefer to consider this project as a game rather than an experiment :)
 Please do not use it for illegal purpose.
 I take no responsibility for the use that will be made of it
-
-IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 <p>
-Google Calendar RAT has been made in Italy with ❤️
+IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
+
+
 
 ## Related articles
 
