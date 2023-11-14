@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="GCR" src="https://github.com/MrSaighnal/GCR-Google-Calendar-RAT/blob/main/images/logo.png?raw=true" height="200" /><br />
 <a href="https://twitter.com/mrsaighnal"><img src="https://img.shields.io/twitter/follow/mrsaighnal?style=social" alt="twitter" style="text-align:center;display:block;"></a>
- <br />made in Italy with ❤️
+
 </p>
 <p align="left">
 
@@ -64,6 +64,8 @@ Please do not use it for illegal purpose.
 I take no responsibility for the use that will be made of it
 
 IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
+<p>
+Google Calendar RAT has been made in Italy with ❤️
 
 ## Related articles
 
