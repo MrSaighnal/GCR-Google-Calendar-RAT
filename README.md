@@ -67,7 +67,7 @@ I take no responsibility for the use that will be made of it
 IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 
 ## Video discussion
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yNnhdrjaCd0/0.jpg)]([https://www.youtube.com/watch?v=yNnhdrjaCd0](https://youtu.be/yNnhdrjaCd0?si=v-4Nqbyzy7jqMl5Q))
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yNnhdrjaCd0/0.jpg)](https://youtu.be/yNnhdrjaCd0?si=cGaD2h7DFMciE1lY)
 
 ## Related articles
 
