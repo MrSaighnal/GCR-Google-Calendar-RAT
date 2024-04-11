@@ -66,7 +66,8 @@ I take no responsibility for the use that will be made of it
 <p>
 IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 
-
+## Video discussion
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yNnhdrjaCd0?si=jiC7OXSk59rHW-wU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Related articles
 
