@@ -69,6 +69,10 @@ IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 ## Video discussion
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yNnhdrjaCd0/0.jpg)](https://youtu.be/yNnhdrjaCd0?si=cGaD2h7DFMciE1lY&t=2250)
 
+### Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/mD1MRKGD59o/hqdefault.jpg)](https://www.youtube.com/watch?v=mD1MRKGD59o)
+
 ## Related articles
 
 - [Google](https://services.google.com/fh/files/blogs/gcat_threathorizons_full_oct2023.pdf)
