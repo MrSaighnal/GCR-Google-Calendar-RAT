@@ -115,6 +115,8 @@ IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 
 - [Red Hot Cyber (italian)](https://www.redhotcyber.com/post/google-calendar-utilizzato-come-comand-control-per-la-gestione-dei-malware/)
 
+- [VirusBullettin](https://www.virusbulletin.com/blog/2025/06/what-cybersecurity-experts-are-talking-about-2025/)
+
 ## Similar (External) Projects
 - [GSR - Google-Slides-RAT (by [Me] MrSaighnal)](https://github.com/MrSaighnal/GSR-Google-Slides-RAT)
 
